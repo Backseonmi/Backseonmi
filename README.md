@@ -11,3 +11,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Backseonmi&langs_count=8)](https://github.com/Backseonmi/github-readme-stats)
