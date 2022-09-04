@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=auto&lines=💜Welcome+To+My+GitHub+Page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=auto&center=true&width=700&lines=💜Welcome+To+My+GitHub+Page!)](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seonmi%20Back&fontSize=90&fontAlignY=40)
 
