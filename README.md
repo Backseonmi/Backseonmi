@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seonmi%20Back&fontSize=90&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seonmi%20Back&fontSize=90&fontAlignY=40)
 <p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
